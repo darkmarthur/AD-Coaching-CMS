@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ad-asesoriaintegral.com"
 languageCode = "en-us"
 title = "Casper Theme"
 theme = "hugo-theme-casper"
